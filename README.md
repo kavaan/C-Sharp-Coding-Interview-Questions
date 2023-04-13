@@ -5,7 +5,7 @@ The following series are examples of different questions in the field of data st
 
 <h2>Anagram</h2>
 When two words have the same characters and the same length, they are considered anagrams of each other.
-<img src=""/>
+<img src="https://github.com/kavaan/C-Sharp-Coding-Interview-Questions/blob/main/anagram.png?raw=true"/>
 
 <b>These are completed over time.</b>
 
